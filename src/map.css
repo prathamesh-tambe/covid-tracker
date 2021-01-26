@@ -25,7 +25,9 @@
 .info-flag{
     height: 80px;
     width:100%;
-    background-size: contain;
+    background-size:     cover;  
+    background-repeat:   no-repeat;
+    background-position: center center;
     border-radius: 8px;
 }
 
