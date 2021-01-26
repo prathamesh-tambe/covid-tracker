@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Covid Tracker 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Built Covid tracker using React.js, Leaflet.js, and Implemented CI/CD pipeline using Github actions to deploy running application on Firebase
+
+You can check live application on https://covid-tracker-6b3e2.web.app/  
 
 ## Available Scripts
 
